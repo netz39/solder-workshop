@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "N39_Octopus.kicad_prl",
+    "filename": "N39_octopus.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -96,7 +96,7 @@
       103,
       74,
       103,
-      0
+      10
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
